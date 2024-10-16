@@ -46,7 +46,7 @@ npm i maplibre-gl # https://maplibre.org/maplibre-gl-js/docs/
 ```
 
 ```powershell
-# Viteのライブラリモードを利用するための設定フィルを作成
+# Viteのライブラリモードを利用するための設定ファイルを作成
 touch vite.config.js
 nano vite.config.js
 ```
